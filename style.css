@@ -1,0 +1,34 @@
+#hamburger {
+  padding: 10px;
+  font-size: 40px;
+}
+.content-about h1{
+  text-align: center;
+  font-weight: 300;
+  font-size: 40px;
+}
+.content-about p{
+  line-height: 30px;
+  font-size: 20px;
+}
+.content-experience h2{
+    text-align: center;
+    font-weight: 300;
+    font-size: 40px;
+}
+.content-experience ul{
+    line-height: 40px;
+}
+.about-me{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}
+.connect-me-wrap{
+    display: flex;
+    margin-left: 20px;
+    padding: 0 30px;
+}
+.social{
+    margin-left: 20px;
+}
